@@ -1,3 +1,4 @@
+
 Inicio projeto 30/07/2017
 
 
@@ -41,4 +42,51 @@ Escudo
     -display visual igual a vida
     -acionado com um segundo dedo na tela
     -tempo rapido de reação
+
+
+English
+
+   Project start 30/07/2017
+
+
+
+   Info screen // made 22/08/2017
+
+
+   Config screen
+        -Switch to HighScore
+            -View Current
+            -Reset
+            -Add
+                -maximum number of lives at most
+                -more time without taking hit
+
+
+
+   Move all Strings to the right place // done 25/08/2017
+
+
+
+   Add Advertising // done 23/08/2017
+        -Admob
+
+   Mini tutorial
+        - finger placement
+        -diminue / increase
+
+
+   New buttons
+        -created type smartclock
+        -animation of segmented soldiers
+
+
+   Fade-in life on the left
+
+   Visual level indicator
+        -palette of colors changing?
+
+   Shield
+        -Visual display equal to life
+        -played with a second finger on the screen
+        -fast reaction time
 

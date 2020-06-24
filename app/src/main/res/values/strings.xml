@@ -1,14 +1,14 @@
 
 <resources>
-    <string name="app_name">Blue Box</string>
+    <string name="app_name">Free of Corona</string>
 
-    <string name="info_1">First game in Box Games series.</string>
-    <string name="info_2">Developed by Guilherme Frota</string>
-    <string name="info_3">who studies computer science</string>
-    <string name="info_4">and since university is always on strike</string>
-    <string name="info_5">Guilherme has a lot of free time.</string>
-    <string name="info_6">He decided to learn android and end</string>
-    <string name="info_7">you and your friend\'s boredom ;)</string>
+    <string name="info_1">Game.</string>
+    <string name="info_2">By Castulo</string>
+    <string name="info_3">He is a runner :) </string>
+    <string name="info_4">always running</string>
+    <string name="info_5">also loving programming.</string>
+    <string name="info_6">Knowing Android and Java</string>
+    <string name="info_7">I love Java :)</string>
     <string name="info_8"> </string>
 
 
@@ -28,7 +28,7 @@
     <string name="pontos" >Score</string>
     <string name="pontos_final" >Final Score</string>
 
-    <string name="bateu_recorde" >YEAAH! This is your best score!</string>
+    <string name="bateu_recorde" >COOL! This is your best score!</string>
     <string name="recorde" >Record</string>
 
 

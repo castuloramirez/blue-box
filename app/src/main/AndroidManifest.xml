@@ -6,7 +6,6 @@
     <uses-permission android:name="android.permission.VIBRATE"/>
 
     <application
-
         android:screenOrientation="portrait"
         android:configChanges="keyboardHidden|orientation"
         android:allowBackup="true"
@@ -19,10 +18,8 @@
         <activity android:name="self.frota.guilherme.principal.Game">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>
-
 </manifest>
